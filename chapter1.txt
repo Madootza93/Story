@@ -1,1 +1,2 @@
 Hello, this is my first time learning about Git. Please, wish me luck!
+I think I am becoming an alien!
